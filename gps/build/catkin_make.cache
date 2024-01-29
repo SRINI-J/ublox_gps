@@ -1,0 +1,2 @@
+ublox/ublox:ublox/ublox_gps:ublox/ublox_msg_filters:ublox/ublox_msgs:ublox/ublox_serialization
+-DCATKIN_DEVEL_PREFIX=/home/user/ublox_gps/gps/devel -DCMAKE_INSTALL_PREFIX=/home/user/ublox_gps/gps/install -G Unix Makefiles
